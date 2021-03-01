@@ -1,5 +1,5 @@
 # Il quaderno di Paolo Bufalini Semantic Scholarly Digital Edition 
-##KOCH Seminar
+## KOCH Seminar
 
 The presentation offers a brief description of Il quaderno di Paolo Bufalini Semantic Scholarly Digital Edition workflow, focusing on data visualisation design choices.
 
