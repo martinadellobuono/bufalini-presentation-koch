@@ -17,7 +17,11 @@ Here you can find the material for your exercise. The file is a PDF file called 
 </ul>
 
 Martina Dello Buono
+<br>
 PhD student in Digital Humanities
+<br>
 Dipartimento di Filologia Classica e Italianistica
+<br>
 Alma Mater Studiorum - Università di Bologna
+<br>
 martina.dellobuono2@unibo.it
