@@ -3,7 +3,7 @@
 
 The presentation offers a brief description of Il quaderno di Paolo Bufalini Semantic Scholarly Digital Edition workflow, focusing on data visualisation design choices.
 
-Download the slides of the presentation from the folder <b>slides</b> or from here: http://dx.doi.org/10.6084/m9.figshare.14137946
+Download the slides of the presentation from here: http://dx.doi.org/10.6084/m9.figshare.14137946
 
 DOI: http://dx.doi.org/10.6084/m9.figshare.14137946
 
